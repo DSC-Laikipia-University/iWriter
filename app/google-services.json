@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557689691772",
+    "firebase_url": "https://iwriter-42d10.firebaseio.com",
+    "project_id": "iwriter-42d10",
+    "storage_bucket": "iwriter-42d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557689691772:android:cc377813071524888733f9",
+        "android_client_info": {
+          "package_name": "ke.co.kelynpaul.iwriter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557689691772-d46mji31hoo4r6btoolhi6l64kjofhcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3SpQ3_voIW10YzCyEJwcQ2ub7lLR2u4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557689691772-d46mji31hoo4r6btoolhi6l64kjofhcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
